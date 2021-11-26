@@ -43,7 +43,7 @@ public class frmAcercaDe extends javax.swing.JFrame {
         lblGradoGrupo.setText("Grado y Grupo: 3B ");
 
         lblVersion.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
-        lblVersion.setText("Version: 1.0");
+        lblVersion.setText("Version: 1.5.2");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
